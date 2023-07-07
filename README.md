@@ -1,4 +1,4 @@
-# Timer App
+# [Timer App](https://timerset.netlify.app/)
 
 ## Tech Stack used are Javascript, HTML and CSS
 ## This is a Timer App, where user gives a time to this Timer in the input box, presses Start Button and Timer starts, it stops after the time finishes
